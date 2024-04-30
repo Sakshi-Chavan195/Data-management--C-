@@ -3,21 +3,13 @@
 using namespace std;
 
 class BasicInfo
-
 {
-
 public:
-
 char name[25];
-
 int age;
-
 char sex[10];
-
 int emp_id;
-
 void getdata()
-
 {
 
 cout<<"Enter Employee Details\n";
